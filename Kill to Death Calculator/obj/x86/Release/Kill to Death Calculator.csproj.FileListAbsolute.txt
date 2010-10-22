@@ -1,0 +1,13 @@
+C:\Users\Marcin Kozlowski\documents\visual studio 2010\Projects\Kill to Death Calculator\Kill to Death Calculator\bin\Release\Kill to Death Calculator.exe
+C:\Users\Marcin Kozlowski\documents\visual studio 2010\Projects\Kill to Death Calculator\Kill to Death Calculator\bin\Release\Kill to Death Calculator.pdb
+C:\Users\Marcin Kozlowski\documents\visual studio 2010\Projects\Kill to Death Calculator\Kill to Death Calculator\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Marcin Kozlowski\documents\visual studio 2010\Projects\Kill to Death Calculator\Kill to Death Calculator\obj\x86\Release\Kill_to_Death_Calculator.mainForm.resources
+C:\Users\Marcin Kozlowski\documents\visual studio 2010\Projects\Kill to Death Calculator\Kill to Death Calculator\obj\x86\Release\Kill_to_Death_Calculator.Properties.Resources.resources
+C:\Users\Marcin Kozlowski\documents\visual studio 2010\Projects\Kill to Death Calculator\Kill to Death Calculator\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Marcin Kozlowski\documents\visual studio 2010\Projects\Kill to Death Calculator\Kill to Death Calculator\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Marcin Kozlowski\documents\visual studio 2010\Projects\Kill to Death Calculator\Kill to Death Calculator\obj\x86\Release\Kill to Death Calculator.exe
+C:\Users\Marcin Kozlowski\documents\visual studio 2010\Projects\Kill to Death Calculator\Kill to Death Calculator\obj\x86\Release\Kill to Death Calculator.pdb
+C:\Users\Marcin Kozlowski\documents\visual studio 2010\Projects\Kill to Death Calculator\Kill to Death Calculator\bin\Release\Kill to Death Calculator.exe.manifest
+C:\Users\Marcin Kozlowski\documents\visual studio 2010\Projects\Kill to Death Calculator\Kill to Death Calculator\bin\Release\Kill to Death Calculator.application
+C:\Users\Marcin Kozlowski\documents\visual studio 2010\Projects\Kill to Death Calculator\Kill to Death Calculator\obj\x86\Release\Kill to Death Calculator.exe.manifest
+C:\Users\Marcin Kozlowski\documents\visual studio 2010\Projects\Kill to Death Calculator\Kill to Death Calculator\obj\x86\Release\Kill to Death Calculator.application

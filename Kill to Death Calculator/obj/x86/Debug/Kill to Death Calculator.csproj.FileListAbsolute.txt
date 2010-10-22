@@ -1,0 +1,22 @@
+C:\Users\Marcin Kozlowski\AppData\Local\Temporary Projects\Kill to Death Calculator\bin\Debug\Kill to Death Calculator.exe
+C:\Users\Marcin Kozlowski\AppData\Local\Temporary Projects\Kill to Death Calculator\bin\Debug\Kill to Death Calculator.pdb
+C:\Users\Marcin Kozlowski\AppData\Local\Temporary Projects\Kill to Death Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcin Kozlowski\AppData\Local\Temporary Projects\Kill to Death Calculator\obj\x86\Debug\Kill_to_Death_Calculator.mainForm.resources
+C:\Users\Marcin Kozlowski\AppData\Local\Temporary Projects\Kill to Death Calculator\obj\x86\Debug\Kill_to_Death_Calculator.Properties.Resources.resources
+C:\Users\Marcin Kozlowski\AppData\Local\Temporary Projects\Kill to Death Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Marcin Kozlowski\AppData\Local\Temporary Projects\Kill to Death Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Marcin Kozlowski\AppData\Local\Temporary Projects\Kill to Death Calculator\obj\x86\Debug\Kill to Death Calculator.exe
+C:\Users\Marcin Kozlowski\AppData\Local\Temporary Projects\Kill to Death Calculator\obj\x86\Debug\Kill to Death Calculator.pdb
+C:\Users\Marcin Kozlowski\documents\visual studio 2010\Projects\Kill to Death Calculator\Kill to Death Calculator\obj\x86\Debug\Kill to Death Calculator.exe
+C:\Users\Marcin Kozlowski\documents\visual studio 2010\Projects\Kill to Death Calculator\Kill to Death Calculator\obj\x86\Debug\Kill to Death Calculator.pdb
+C:\Users\Marcin Kozlowski\documents\visual studio 2010\Projects\Kill to Death Calculator\Kill to Death Calculator\bin\Debug\Kill to Death Calculator.exe
+C:\Users\Marcin Kozlowski\documents\visual studio 2010\Projects\Kill to Death Calculator\Kill to Death Calculator\bin\Debug\Kill to Death Calculator.pdb
+C:\Users\Marcin Kozlowski\documents\visual studio 2010\Projects\Kill to Death Calculator\Kill to Death Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcin Kozlowski\documents\visual studio 2010\Projects\Kill to Death Calculator\Kill to Death Calculator\obj\x86\Debug\Kill_to_Death_Calculator.mainForm.resources
+C:\Users\Marcin Kozlowski\documents\visual studio 2010\Projects\Kill to Death Calculator\Kill to Death Calculator\obj\x86\Debug\Kill_to_Death_Calculator.Properties.Resources.resources
+C:\Users\Marcin Kozlowski\documents\visual studio 2010\Projects\Kill to Death Calculator\Kill to Death Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Marcin Kozlowski\documents\visual studio 2010\Projects\Kill to Death Calculator\Kill to Death Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Marcin Kozlowski\documents\visual studio 2010\Projects\Kill to Death Calculator\Kill to Death Calculator\bin\Debug\Kill to Death Calculator.exe.manifest
+C:\Users\Marcin Kozlowski\documents\visual studio 2010\Projects\Kill to Death Calculator\Kill to Death Calculator\bin\Debug\Kill to Death Calculator.application
+C:\Users\Marcin Kozlowski\documents\visual studio 2010\Projects\Kill to Death Calculator\Kill to Death Calculator\obj\x86\Debug\Kill to Death Calculator.exe.manifest
+C:\Users\Marcin Kozlowski\documents\visual studio 2010\Projects\Kill to Death Calculator\Kill to Death Calculator\obj\x86\Debug\Kill to Death Calculator.application
